@@ -191,7 +191,7 @@ code { font-family: var(--mono); font-size: .85em; background: var(--accent-soft
   border-radius: 28px; border: 1px solid var(--gold); opacity: .6;
 }
 .hero__photo img {
-  width: 100%; height: auto; aspect-ratio: 680 / 720; object-fit: cover; object-position: center 30%;
+  width: 100%; height: auto; aspect-ratio: 1088 / 1152; object-fit: cover; object-position: center 30%;
   border-radius: 28px; background: var(--bg-tint); box-shadow: var(--shadow);
 }
 .hero__title em, .contact__title em { font-style: italic; color: var(--accent); }
